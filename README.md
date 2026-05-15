@@ -1,2 +1,7 @@
-# demo-js-propiedades
-Demo web para Js Propiedades — diseñada por eterlab.
+# Js Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
